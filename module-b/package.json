@@ -1,0 +1,8 @@
+{
+  "name": "module-b",
+  "type": "module",
+  "main": "src/index.mjs",
+  "dependencies": {
+    "module-a": "*" 
+  }
+}

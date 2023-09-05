@@ -1,0 +1,8 @@
+{
+  "name": "monorepo",
+  "type": "module",
+  "workspaces": [
+    "module-a",
+    "module-b" 
+  ]
+}
